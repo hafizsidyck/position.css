@@ -1,0 +1,143 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+section {
+    background-color: green;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.carre1 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(11, 146, 11, 0.932); 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+.carre2 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(11, 146, 11, 0.932); 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+.carre3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(11, 146, 11, 0.932);  
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+.carre4 {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(11, 146, 11, 0.932); 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+.rond1 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.rond2 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.rond3 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.rond4 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.rond5 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.rond6 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    top: 0;
+}
+.rond7 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.rond8 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.rond9 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: rgba(255, 235, 205, 0.562);
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.rond10 {
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+    position: absolute;
+}
